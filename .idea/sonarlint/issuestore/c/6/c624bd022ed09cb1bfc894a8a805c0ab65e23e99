@@ -1,0 +1,5 @@
+
+Hsquid:S1135"2Complete the task associated to this TODO comment.(£°§\
+jsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(…­¸æùÿÿÿÿ8Ó¶ç†˜.
+Isquid:S1172"&Remove these unused method parameters.(…­¸æùÿÿÿÿ8Ó¶ç†˜.
+©%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(…­¸æùÿÿÿÿ8Þ”ê†˜.

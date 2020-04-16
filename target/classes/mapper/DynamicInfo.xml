@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.yxg.informshare.dao.DynamicInfoDao">
+    <!-- 目的：为dao接口方法提供sql语句配置 -->
+    <select id="queryById" resultType="DynamicInfo" parameterType="int">
+        <!-- 具体的sql -->
+        SELECT
+        PID,
+        USERID,
+        TITLE,
+        CONTEXT,
+        IMAGE
+        FROM
+        t_informshare_dynamic
+        WHERE
+        PID = #{pid}
+    </select>
+
+    <select id="queryAll" resultType="DynamicInfo">
+		SELECT
+        NUMBER,
+        USERID,
+        TITLE,
+        COMMENT
+        FROM
+        t_informshare_dyanmic
+	</select>
+
+</mapper>
