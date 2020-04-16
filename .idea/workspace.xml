@@ -6,10 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d330551c-6bcd-4e20-aaf2-437fbd7ed7f3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d330551c-6bcd-4e20-aaf2-437fbd7ed7f3" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -100,6 +97,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -121,9 +119,8 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="633" />
-    <option name="y" value="297" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="433" />
     <option name="width" value="1225" />
     <option name="height" value="1040" />
   </component>
@@ -207,6 +204,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp/resources/js" />
@@ -388,8 +386,16 @@
       <workItem from="1587007879394" duration="5170000" />
       <workItem from="1587029531551" duration="3002000" />
       <workItem from="1587042620024" duration="1326000" />
-      <workItem from="1587044121321" duration="1674000" />
+      <workItem from="1587044121321" duration="2148000" />
     </task>
+    <task id="LOCAL-00001" summary="登陆注册前端完成（除了script还有点问题）">
+      <created>1587046499510</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587046499510</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -413,10 +419,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3000000" />
+    <option name="totallyTimeSpent" value="3474000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="507" y="238" width="980" height="832" extended-state="0" />
+    <frame x="392" y="206" width="980" height="832" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8308351" visible="true" weight="0.31344903" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -462,6 +468,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="登陆注册前端完成（除了script还有点问题）" />
+    <option name="LAST_COMMIT_MESSAGE" value="登陆注册前端完成（除了script还有点问题）" />
   </component>
   <component name="WindowStateProjectService">
     <state x="499" y="158" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586859376561">
