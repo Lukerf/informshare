@@ -1,8 +1,8 @@
 
-csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(…­¸æùÿÿÿÿ
-hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ëæ£98Úı‡˜.
 \squid:S3752">Add a "method" parameter to this "@RequestMapping" annotation.(ô¸èÉ8±¼µ…˜.
-Hsquid:S1135"2Complete the task associated to this TODO comment.(£°§\
-Tsquid:UselessImportCheck	"0Remove this unused import 'java.io.PrintWriter'.(ÓŞÏÛ
-ysquid:S1488"[Immediately return this expression instead of assigning it to the temporary variable "mav".(ßˆ8îæ’ˆ˜.
 ©%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(…­¸æùÿÿÿÿ8Íôı‡˜.
+Tsquid:UselessImportCheck	"0Remove this unused import 'java.io.PrintWriter'.(ÓŞÏÛ
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ëæ£98Úı‡˜.
+ysquid:S1488"[Immediately return this expression instead of assigning it to the temporary variable "mav".(§ûÊÎ8îæ’ˆ˜.
+csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(…­¸æùÿÿÿÿ
+Hsquid:S1135"2Complete the task associated to this TODO comment.(£°§\

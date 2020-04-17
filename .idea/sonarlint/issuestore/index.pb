@@ -37,3 +37,11 @@ W
 'src/main/webapp/resources/js/vue.min.js,8\d\8dd1a79d67a8cc508fa1b0ebb7bb200da7f4abeb
 ^
 .src/main/webapp/resources/js/vue-router.min.js,c\e\ce716c0bc3860dcd805b95f764d0bacd56bd07d8
+V
+&src/main/webapp/WEB-INF/page/test.html,4\a\4aa39dc8dc419520f9c3d980c63225fc797f7cb7
+Z
+*src/main/webapp/resources/css/regLogin.css,0\c\0c99c345456115c7846b7b58e8f041fa56b42093
+p
+@src/main/java/com/yxg/informshare/controller/TestController.java,8\f\8f4cc144e2ca0c5aeacf31f49f74a59afc6c0ae4
+`
+0src/main/webapp/WEB-INF/page/login_register.html,f\c\fc9f9b22a84697687ced5d7cfa3db64c018135c2
