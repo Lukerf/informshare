@@ -6,22 +6,17 @@ import org.springframework.web.servlet.ModelAndView;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
-import java.io.PrintWriter;
 
 /**
  * @Description TODO
  * @Author xiguang_yin
- * @Date 2020/4/14 21:50
+ * @Date 2020/4/17 12:15
  */
 @Controller
-public class LoginController {
-    @RequestMapping("/login")
-    public ModelAndView handleRequest(HttpServletRequest request, HttpServletResponse response) throws Exception{
-
-//        request.getRequestDispatcher("login.html").forward(request, response);;
-        ModelAndView mav = new ModelAndView("login_register");
-
+public class TestController {
+    @RequestMapping("/test")
+    public ModelAndView handleRequest(HttpServletRequest request, HttpServletResponse response)throws Exception{
+        ModelAndView mav = new ModelAndView("test");
         return mav;
     }
-
 }
