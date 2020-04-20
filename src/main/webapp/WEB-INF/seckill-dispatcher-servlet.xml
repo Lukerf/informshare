@@ -14,13 +14,5 @@
         <property name="prefix" value="/WEB-INF/page/" />
         <property name="suffix" value=".html" />
     </bean>
-<!--         <bean id="simpleUrlHandlerMapping"-->
-<!--             class="org.springframework.web.servlet.handler.SimpleUrlHandlerMapping">-->
-<!--             <property name="mappings">-->
-<!--                 <props>-->
-<!--                     <prop key="/index">indexController</prop>-->
-<!--                 </props>-->
-<!--             </property>-->
-<!--         </bean>-->
-<!--         <bean id="indexController" class="com.yxg.informshare.controller.IndexController"></bean>-->
+
 </beans>
